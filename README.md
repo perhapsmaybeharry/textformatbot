@@ -10,17 +10,19 @@ Use markdown or HTML tags:
 ### markdown
 
 italics: `_`
+<br>
 bold: `*`
 
 ### html
 
 italics: `<em>`
+<br>
 bold: `<strong>`
 
 ## example usage
 
-markdown italics: `_this is italic text_`
+markdown italics: `_this is italic text_`<br>
 markdown bold: `*this is bold text*`
-
-html italics: `<em>this is italic text</em>`
+<br><br>
+html italics: `<em>this is italic text</em>`<br>
 html bold: `<strong>this is bold text</strong>`
